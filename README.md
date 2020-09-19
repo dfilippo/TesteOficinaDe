@@ -11,7 +11,9 @@ Este texto está normal
 ~~Tachado~~
 
 https://rogerdudler.github.io/git-guide/index.pt_BR.html
+
 https://bookdown.org/yihui/rmarkdown/html-document.html
+
 
 > "Os dados são o novo petróleo" (autor)
 
