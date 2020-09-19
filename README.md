@@ -76,5 +76,7 @@ Oficina
 
 [2. O que é markdown?](https://bookdown.org/yihui/rmarkdown/html-document.html)
 
+[3. Quem é Denise?](https://github.com/dfilippo/TesteOficinaDe/blob/master/README.md#prof-denise)
+
 
 :koala:
